@@ -658,7 +658,7 @@ input.search-form:hover {
 
 #services .lead,
 #services h2{
-  color: #fff;
+  color: #f0f0f0;
 }
 
 .services-wrap {
@@ -2525,7 +2525,9 @@ shortcodes page css
   margin-left: 15px;
 }
 
-
+#services .form-group label {
+  color: #f0f0f0;
+}
 
 
 
